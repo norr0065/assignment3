@@ -51,8 +51,6 @@ header {
     background-size: 25rem;  
 }
 
-
-
 h1 {
     margin: 15rem 0 1rem 0;
     background-color: rgba(140, 224, 176, .8); 
@@ -61,8 +59,7 @@ h1 {
     font-weight: normal;
     color: white;
     padding:0;  
-    letter-spacing:-.1rem;
-    
+    letter-spacing:-.1rem;   
 }
 
 .nav-top {
@@ -197,8 +194,7 @@ h2 {
     width: 15%;
     margin: 0; 
     padding: .5rem;
-    align-content:center;
-    
+    align-content:center;   
 }
 
 .buckets2 figure:nth-child(even) {
@@ -244,7 +240,6 @@ h5 {
     text-align: justify;
 }
 
-
 .buckets3 {
     overflow: hidden;
     padding: 0;
@@ -280,7 +275,4 @@ figure a,
 figure a:link,
 figure a:visited {
     text-decoration: none;  
-}
-
-    
-    
+} 
