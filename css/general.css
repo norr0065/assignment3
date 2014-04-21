@@ -56,9 +56,9 @@ header {
 h1 {
     margin: 15rem 0 1rem 0;
     background-color: rgba(140, 224, 176, .8); 
-    font-family:'Raleway dots', sans-serif ;
-    font-weight: normal;
+    font-family:'codystar', sans-serif ;
     font-size: 2rem;
+    font-weight: normal;
     color: white;
     padding:0;  
     letter-spacing:-.1rem;
